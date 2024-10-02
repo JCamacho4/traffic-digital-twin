@@ -6,6 +6,22 @@
 [![Dash](https://img.shields.io/badge/Dash-Plotly-yellow.svg)](https://dash.plotly.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-orange.svg)](https://www.mongodb.com/)
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Key Features](#key-features)
+3. [Project Structure](#project-structure)
+4. [Research Paper](#research-paper)
+5. [License](#license)
+6. [Acknowledgements](#acknowledgements)
+7. [Diagram of the App](#diagram-of-the-app)
+8. [Dashboards Overview](#dashboards-overview)
+   - [Data Analysis Dashboard](#data-analysis-dashboard)
+   - [Traffic Simulation Dashboard](#traffic-simulation-dashboard)
+9. [Installation & Setup](#installation--setup)
+   - [Prerequisites](#prerequisites)
+   - [General Installation Steps](#general-installation-steps)
+
+
 ## Project Overview
 This repository contains the final degree project for obtaining the title of **Software Engineer** at the **University of Málaga (UMA)**. The project received **honors** with a final grade of **9.4**. 
 
