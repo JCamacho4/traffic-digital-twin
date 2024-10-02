@@ -17,7 +17,7 @@ The goal of this project is to study traffic flow in a specific zone through dat
 - **Data Analysis Dashboard**: Visualize historical traffic trends through an interactive dashboard with various filters. The dashboard automatically generates analytical insights and visualizations, with the option to download the results.
 - **Traffic Simulation Dashboard**: Simulate traffic behavior using an Agent-Based Model (ABM) and visualize detailed graphs of the simulation outcomes. The results can also be downloaded for further analysis.
 
-## Project Structure
+### Project Structure
 The project is organized into four distinct parts:
 
 1. **extract_data**
@@ -25,10 +25,34 @@ The project is organized into four distinct parts:
 3. **data_dashboard**
 4. **simulator_dashboard**
 
+## Research Paper
+For detailed information about the research and methodologies behind this project, you can find the full paper [here](./paper.pdf).
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+## Acknowledgements
+Special thanks to **Eduardo Guzmán** and **Juan Palma** for providing guidance.
+
+Feel free to open issues, contribute, or contact me if you have any questions or suggestions.
+
 ## Diagram of the App
 The diagram below outlines the architecture and flow of the application:
 
 ![Application Diagram](./project_abstract_horizontal.drawio.png)
+
+## Dashboards Overview
+
+This section provides a visual representation of the two dashboards included in the project.
+
+### Data Analysis Dashboard
+![Data Analysis Dashboard](./3_data_dashboard/screenshot.png)  
+*Screenshot of the Data Analysis Dashboard, visualizing historical traffic data.*
+
+### Traffic Simulation Dashboard
+![Traffic Simulation Dashboard](./4_simulator_dashboard/screenshot.png)  
+*Screenshot of the Traffic Simulation Dashboard, simulating traffic flow using an Agent-Based Model (ABM).*
+
 
 ## Installation & Setup
 
@@ -57,14 +81,3 @@ Each part of the project is contained in its own folder, with specific installat
    - [Go to simulation dashboard instructions](./4_simulator_dashboard/README.md)
 
 Before proceeding with each part, ensure you have installed the required Python libraries and filled in the necessary `.env` files as per the instructions in each respective folder.
-
-## Research Paper
-For detailed information about the research and methodologies behind this project, you can find the full paper [here](./paper.pdf).
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-## Acknowledgements
-Special thanks to **Eduardo Guzmán** and **Juan Palma** for providing guidance.
-
-Feel free to open issues, contribute, or contact me if you have any questions or suggestions.
