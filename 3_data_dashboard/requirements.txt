@@ -1,0 +1,14 @@
+dash~=2.17.0
+pandas
+dash-leaflet[geobuf]
+geopandas~=0.14.4
+osmnx~=1.9.3
+matplotlib
+plotly~=5.22.0
+dash-bootstrap-components
+shapely~=2.0.4
+numpy~=1.26.4
+networkx~=3.3
+memoization~=0.4.0
+pymongo
+python-dotenv

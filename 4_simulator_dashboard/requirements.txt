@@ -1,0 +1,18 @@
+mesa~=2.0
+matplotlib~=3.9.0
+osmnx~=1.9.3
+networkx~=3.3
+pandas~=2.2.2
+pymongo~=4.7.3
+python-dotenv~=1.0.1
+# Dash
+
+dash[diskcache]~=2.17.0
+dash-leaflet[geobuf]
+geopandas~=0.14.4
+plotly~=5.22.0
+dash-bootstrap-components
+shapely~=2.0.4
+numpy~=1.26.4
+memoization~=0.4.0
+diskcache~=5.6.3

@@ -1,0 +1,11 @@
+osmnx~=1.9.3
+# gdal (local wheel version)
+matplotlib
+scikit-learn
+geojson~=3.1.0
+networkx
+requests
+geopy
+shapely~=2.0.4
+pymongo[srv]
+python-dotenv
